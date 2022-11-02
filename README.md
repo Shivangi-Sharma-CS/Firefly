@@ -5,7 +5,7 @@ To explain my assignment in short, fireflies synchronise their light flashing wi
 
 ![Alt Text](https://media.giphy.com/media/BUKaqI3Gz6btIP94qk/giphy.gif)
 
-We `Save state to File` using the Java Serializable class and rerun the project again to `Load the state from file` as follows: 
+We `Save state to File` using the Java Serializable interface and rerun the project again to `Load the state from file` as follows: 
 
 ![Alt Text](https://media.giphy.com/media/122aRamea4x4iwP39z/giphy.gif)
 
