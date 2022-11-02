@@ -1,3 +1,18 @@
+
+This was my university assignment provided by [Dr. Andrew Godbout](https://github.com/andrewgodbout). I thank him for his mentorship. I also thank my help center tutor [Mr. Will Taylor](https://github.com/wtaylor17) for his guidance. 
+
+To explain my assignment in short, fireflies synchronise their light flashing with the neighboring fireflies. This program simulates this synchronisation.
+
+![Alt Text](https://media.giphy.com/media/BUKaqI3Gz6btIP94qk/giphy.gif)
+
+We `Save state to File` using the Java Serializable class and rerun the project again to `Load the state from file` as follows: 
+
+![Alt Text](https://media.giphy.com/media/122aRamea4x4iwP39z/giphy.gif)
+
+Please `clone` the project and run the `Firefly2Viewer` class in your IDE to see the program in action. 
+
+Please read the section below `Assignment 4` to understand the math behind the firefly synchronisation based on coupled oscillators. 
+
 ## Assignment 4
 
 In the wild, fireflies display a natural tendency to synchronize their flashing.
